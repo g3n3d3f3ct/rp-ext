@@ -1,11 +1,11 @@
 {
   "id": "pocopico.mpt3sas",
-  "url": "https://raw.githubusercontent.com/pocopico/rp-ext/master/mpt3sas/rpext-index.json",
+  "url": "https://raw.githubusercontent.com/g3n3d3f3ct/rp-ext/master/mpt3sas/rpext-index.json",
   "info": {
     "name": "mpt3sas",
     "description": "Adds LSI MPT Fusion SAS 3.0 Device Driver Support",
-    "author_url": "https://github.com/pocopico",
-    "packer_url": "https://github.com/pocopico/rp-ext/tree/main/mpt3sas",
+    "author_url": "https://github.com/g3n3d3f3ct",
+    "packer_url": "https://github.com/g3n3d3f3ct/rp-ext/tree/main/mpt3sas",
     "help_url": "<todo>"
   },
   "releases": {
